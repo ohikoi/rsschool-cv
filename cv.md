@@ -8,3 +8,9 @@
 ### Discord: oh1ko1
 ### E-mail: kssyph1133@gmail.com
 <br>
+
+# About Me
+> I am currently studying at school. I started studying programming. I would like to develop in this field and become a fullstack in the future.
+>
+>In my free time, I am fond of drawing and spend time in nature.
+<br>
