@@ -31,3 +31,10 @@ def graf(oil:list):
 
 ```
 <br>
+# Education
+> School.
+<br>
+
+# Experience
+> This is my first experience.
+<br>
