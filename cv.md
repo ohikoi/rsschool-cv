@@ -31,6 +31,7 @@ def graf(oil:list):
 
 ```
 <br>
+
 # Education
 > School.
 <br>
