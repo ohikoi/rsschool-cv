@@ -39,3 +39,8 @@ def graf(oil:list):
 # Experience
 > This is my first experience.
 <br>
+
+# Languages
++ Russian - native language 
++ English - A1+
+<br>
