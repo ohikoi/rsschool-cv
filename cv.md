@@ -19,3 +19,15 @@
 * Python
 * PyCharm
 <br>
+
+# Code Example
+```
+def graf(oil:list):
+    ds=[]
+    for x in oil:
+        if x not in ds:
+            ds.append(x)
+    return ds
+
+```
+<br>
