@@ -14,3 +14,8 @@
 >
 >In my free time, I am fond of drawing and spend time in nature.
 <br>
+
+# Skills
+* Python
+* PyCharm
+<br>
